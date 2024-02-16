@@ -3,4 +3,6 @@ set -e
 
 . $IDF_PATH/export.sh
 
-idf.py build
+# idf.py build
+
+ls -R
